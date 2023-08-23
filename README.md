@@ -1,10 +1,13 @@
 # aluraportifolio
 aulas portifolio alura
-```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/tela.png)
+# Portfólio
+
+Olá, Bem vindo ao meu projeto de portfólio.
+
+<img src="https://github.com/victorodrigues-it/aluraportifolio/blob/main/assets/tela.png ">
+
 
 ## Ferramentas utilizadas:
 
@@ -20,4 +23,4 @@ aulas portifolio alura
 
 ### Linkedin: https://www.linkedin.com/in/victor-aurélio-57595a196/
 
-```
+
